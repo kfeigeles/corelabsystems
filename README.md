@@ -1,2 +1,2 @@
-# corelabsystems
-core lab systems fall 2018
+# Keaton Feigeles
+core lab/studio systems fall 2018
